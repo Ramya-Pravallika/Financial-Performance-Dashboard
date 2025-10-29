@@ -62,13 +62,7 @@ The result is a professional, web-based financial dashboard that delivers both *
 | Finance | Jan | 65,000 | 64,000 | -0.015 | 6 |
 
 ---
+## Dashboards
+<img width="1602" height="767" alt="image" src="https://github.com/user-attachments/assets/bb20db52-1e0c-4eb2-98fd-5a1290e7b679" />
+<img width="1594" height="492" alt="image" src="https://github.com/user-attachments/assets/82d1ffbf-5ed3-4f58-9ed3-f1d52012b64a" />
 
-## 🤖 AI Studio Prompt Used
-
-```text
-You are a financial program analyst. Based on the following dataset, write a short executive summary (3–5 sentences) describing:
-1. Which departments spent over their budget (positive variance%)
-2. Which departments were under budget (negative variance%)
-3. What overall trend do you notice in process efficiency (ProcessTimeDays)
-4. One actionable recommendation to improve financial control.
-Keep your response professional, concise, and easy to include in a report dashboard.
